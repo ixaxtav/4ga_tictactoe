@@ -1,0 +1,21 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+.grid2 {
+width: 150px;
+height: 150px;
+border-radius: 5px;
+border: 2px solid #772953;
+background-color: #FEF6FC;
+padding: 0px 10px 10px 10px;
+margin: auto;
+text-align: center;
+font-size: 35pt;
+font-weight: bold;
+color: #999;
+}
+
+td:hover
+{
+    background-color: #dbdbdb;
+    cursor:pointer;
+}
